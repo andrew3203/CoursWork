@@ -1,8 +1,7 @@
 *.blg
 *.log
-*.out
+*.toc
 *.gz
 *.aux
-main.bib
-*.toc
+*.aut
 
